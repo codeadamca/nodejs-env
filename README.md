@@ -19,6 +19,7 @@ This project uses [Node.js](https://nodejs.org/).
 ## Repo Resources
 
 - [Node.js](https://nodejs.org/)
+- [propcess.env](https://nodejs.org/api/process.html#processenv)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
