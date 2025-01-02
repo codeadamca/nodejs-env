@@ -1,6 +1,6 @@
 # Hiding Node.js Environment Varaibles
 
-A basic vanilla Node.js script to load variables from an .env file.
+A basic vanilla Node.js script to load variables from an .env file. Run the script using a regular Node.js starting command `node app.js` and add a flag to include environment variabl;es `--end-file=.env`.
 
 ```nodejs
 node --env-file=.env app.js
